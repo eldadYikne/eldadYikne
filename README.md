@@ -3,15 +3,15 @@
 
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
-• 🌴 Proficient in building single-page apps (At the moment I work as an instructor in Coding Academy).
+• 🌴 Proficient in building single-page apps .
 
 • 🎯 High self-disciplined with a constant drive for professional excellence.
 
-• 🏆 I recently built a clone of Trello, check it out, it has everything! Skello
+• 🏆 I recently built a clone of Trello/Jira, check it out, it has everything! skyllo.
 
-• 📫 You can reach me at benamram.ori@gmail.com
+• 📫 You can reach me at nmknv99@gmail.com
 
-• 💙 Fun fact: I love meditation, running, and play music 🎨
+• 💙 Fun fact: I love coding, sport, and play music 🎷
 
 
 Languages and Tools:
