@@ -1,10 +1,6 @@
  Hi there ,my name is Eldad👋
 
-<!--
-**eldadYikne/eldadYikne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-At the moment I'm working as a Full-Stack Developer at Misterbit Technological Solutions, and coding instructor at Coding Academy
 • 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
 • 🌴 Proficient in building single-page apps (At the moment I work as an instructor in Coding Academy).
